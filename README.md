@@ -1,9 +1,3 @@
-### Greg Foote
-
-## Greg Foote
-
-# Greg Foote
-
 ### IT Operations Manager
 Directed enterprise projects and technical teams
 

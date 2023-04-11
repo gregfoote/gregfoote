@@ -1,4 +1,3 @@
-<h1> Greg Foote </h1>
 # Greg Foote
 
 ## IT Operations Manager

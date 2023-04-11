@@ -1,6 +1,21 @@
-### Hi there 👋
+### IT Operations Manager
+Directed enterprise projects and technical teams
+
+### Network/Systems Administrator
+Operated complex, high availability, distributed, mixed environments
+
+### Infrastructure and Cloud Engineer
+Utilized data center, network/server, and cloud infrastructure
+
+### Platform Proficiency
+Experience with Windows, Linux, Cisco/Arista, and VMware
+
+### Systems and Operations Support
+Infrastructure, application, web, database, and cloud information systems
 
 <!--
+### Hi there 👋
+
 **gregfoote/gregfoote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

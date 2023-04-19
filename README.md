@@ -4,6 +4,7 @@
 <p><a href="/experience">Experience</a></p>
 <p><a href="/history">Work History</a></p>
 <p><a href="/education">Education</a></p>
+<p><a href="/certification">Certification</a></p>
 <p><a href="/contact">Contact</a></p>
 
 https://gregfoote.com/

@@ -1,6 +1,6 @@
 <h1>Greg Foote</h1>
 
-<p><a href="/roles/">Roles</a></p>
+<p><a href="/roles">Roles</a></p>
 
 <!--
 ### Hi there 👋

@@ -1,4 +1,4 @@
-# Greg Foote
+# Roles
 
 ## IT Operations Manager
 Directed enterprise projects and technical teams

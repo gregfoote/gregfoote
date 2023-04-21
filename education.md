@@ -17,3 +17,5 @@
 
 ## Continuing Education Topics
 Pluralsight, Coursera, Eduonix, Udacity, Udemy, The Linux Foundation, and VMware
+
+<p><a href="https://gregfoote.com">GregFoote.com</a></p>

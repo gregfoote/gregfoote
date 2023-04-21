@@ -29,3 +29,5 @@ IT systems and datacenter site management. Systems and network administration. F
 Financial services day trading corporation
 04/2000 – 08/2001 – Lead Technical Support Specialist, Network and Systems Administrator
 Computer and network technician. Deployed and maintained workstation systems, application installations, and data backup/recovery. Operations specialist for server and network systems of multiple sites and datacenters. Inventory equipment. Remote access technologies. Designed, deployed, and maintained Internet and intranet web sites, applications, and database server systems.
+
+<p><a href="https://gregfoote.com">GregFoote.com</a></p>

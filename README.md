@@ -1,7 +1,6 @@
 <h1>Greg Foote</h1>
 
 <p><a href="/roles">Roles</a></p>
-<p><a href="/experience">Experience</a></p>
 <p><a href="/history">Work History</a></p>
 <p><a href="/education">Education</a></p>
 <p><a href="/certification">Certification</a></p>

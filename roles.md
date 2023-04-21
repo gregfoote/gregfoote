@@ -14,3 +14,5 @@ Experience with Windows, Linux, Cisco/Arista, and VMware
 
 ## Systems and Operations Support
 Infrastructure, application, web, database, and cloud information systems
+
+<p><a href="https://gregfoote.com">GregFoote.com</a></p>

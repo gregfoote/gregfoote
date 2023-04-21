@@ -6,7 +6,7 @@
 <p><a href="/certification">Certification</a></p>
 <p><a href="/contact">Contact</a></p>
 
-https://gregfoote.com/
+<p><a href="https://gregfoote.com">GregFoote.com</a></p>
 
 <!--
 ### Hi there 👋
